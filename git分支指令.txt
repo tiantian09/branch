@@ -4,3 +4,8 @@ git branch -d 分支删除
 git chekout 分支名  进入分支
 merge 分支合并
 merge branch  把名为branch的分支合并到当前分支上 
+
+//一个项目从无到有 需要用到指令；
+
+git clone 路径；
+//远程仓库=>>本地仓库
